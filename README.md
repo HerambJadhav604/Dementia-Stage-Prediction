@@ -42,10 +42,10 @@ To run this project locally, follow these steps:
 ### **1. Clone the Repository**
 git clone https://github.com/HerambJadhav604/Dementia Prediction.ipynb.zip
 
-### **2. Navigate to the Project Directory
+### **2. Navigate to the Project Directory**
 cd Dementia-Stage-Prediction
 
-### **3. Open the Jupyter Notebook
+### **3. Open the Jupyter Notebook **
 jupyter notebook
 
 Open the dementia_prediction.ipynb file and run the cells to execute the model pipeline.

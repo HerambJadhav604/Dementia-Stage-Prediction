@@ -40,7 +40,7 @@ The dataset used in this study is sourced from the **Open Access Series of Imagi
 To run this project locally, follow these steps:
 
 ### **1. Clone the Repository**
-git clone https://github.com/yourusername/Dementia-Stage-Prediction.git
+git clone https://github.com/HerambJadhav604/Dementia Prediction.ipynb.zip
 
 ### **2. Navigate to the Project Directory
 cd Dementia-Stage-Prediction
